@@ -102,7 +102,7 @@ EasyPlayrPro.on('play', function () {
 | mute      | 静音    |               |
 | cancelMute      | 取消静音    |               |
 | isMute      |  返回是否静音    |               |
-| screenshot         | 获取快照      |('test', 'png|jpeg', '0-1(压缩率)','download|base64|blob')|
+| screenshot         | 获取快照      |('test', 'png \| jpeg', '0-1(压缩率)','download \| base64 \| blob')|
 | setFullscreen      |  全屏(取消全屏)播放视频    |               |
 | exitFullscreen      | 退出全屏    |               |
 | setQuality      |  设置分辨率必须是quality里面的数据    |               |
