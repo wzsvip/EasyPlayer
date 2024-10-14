@@ -99,8 +99,7 @@ EasyPlayrPro.on('play', function () {
 | play         | 播放      |         'url'            |
 | pause      | 暂停播放    |               |
 | isPause      | 返回是否暂停中状态    |               |
-| mute      | 静音    |               |
-| cancelMute      | 取消静音    |               |
+| setMute      | 音频    |      true|false         |
 | isMute      |  返回是否静音    |               |
 | screenshot         | 获取快照      |('test', 'png \| jpeg', '0-1(压缩率)','download \| base64 \| blob')|
 | setFullscreen      |  全屏(取消全屏)播放视频    |               |
