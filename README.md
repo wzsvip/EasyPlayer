@@ -120,10 +120,7 @@ screenshot 截图，调用后弹出下载框保存截图
 案例:
 ```js
 const base64 = EasyPlayerPro.screenshot("test", "png", 0.5, 'base64')
-```
-
-
-
+``
 ## 更多流媒体音视频资源
 
-EasyDarwin开源流媒体服务器：<a href="http://www.easydarwin.org" target="_blank" title="EasyDarwin开源流媒体服务器">www.EasyDarwin.org</a>
+
